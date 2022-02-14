@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="guess_button">Guess</string>
+    <string name="guess_prompt">Guess a word</string>
+    <string name="mismatched_guesses">Mismatched guesses: %s</string>
+    <string name="lives_left">%d/%d</string>
+    <string name="incorrect_guesses">Incorrect guesses: %s</string>
+</resources>
